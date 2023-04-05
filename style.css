@@ -150,7 +150,8 @@ p{
       font-size: 24px;
     }
     .mnt_pic {
-      display: none;
+          height: 320px;
+          width: 480px;
     }
     .cloud1{
       display: none;
